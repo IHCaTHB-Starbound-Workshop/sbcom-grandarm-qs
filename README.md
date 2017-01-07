@@ -1,1 +1,1 @@
-# sbmod-grandarm-qs
+# sbcom-grandarm-qs
