@@ -1,0 +1,44 @@
+[[
+  {
+    "op": "copy",
+    "path": "/builderConfig/0",
+    "from": "/builderConfig/0"
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/blade/path",
+    "value": "qs/<variant>.png"
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/blade/variants",
+    "value": 86
+  },
+  {
+    "op": "add",
+    "path": "/QS0",
+    "value": 1
+  }
+],[
+  {
+    "op": "test",
+    "path": "/FU",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/blade/variants",
+    "value": 269
+  },
+  {
+    "op": "replace",
+    "path": "/QS0",
+    "value": 2
+  }
+],[
+  {
+    "op": "move",
+    "path": "/builderConfig/-",
+    "from": "/builderConfig/0"
+  }
+]]

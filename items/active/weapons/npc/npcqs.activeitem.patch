@@ -1,0 +1,27 @@
+[
+  {
+    "op": "copy",
+    "path": "/builderConfig/0",
+    "from": "/builderConfig/0"
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/blade/path",
+    "value": "/items/active/weapons/melee/quarterstaff/qs/<variant>.png"
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/blade/variants",
+    "value": 86
+  },
+  {
+    "op": "move",
+    "path": "/builderConfig/-",
+    "from": "/builderConfig/0"
+  },
+  {
+    "op": "add",
+    "path": "/QS0",
+    "value": 1
+  }
+]
