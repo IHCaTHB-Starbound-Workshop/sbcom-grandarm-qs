@@ -1,15 +1,11 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "^#5aa9d6;Adds the original Quarterstaff Armory art to the Grand Armory quarterstaves.^reset;
-
-This mod is an optional patch that requires Quarterstaff Armory and Grand Armory to work.
-Running Quarterstaff Armory Extended will add all the extended variations as expected.
-If you are running Frackin Universe and not Quarterstaff Extended you will need the Grand Armory-Frackin Universe compatibility patch to utilize the extended assets included in FU.
-
-For more, click the MEGATHREAD link from the steam page.",
+  "description" : "^#5aa9d6;Adds the original Quarterstaff Armory art to the Grand Armory quarterstaves.^reset;\n\nThis mod is an optional patch that requires Quarterstaff Armory and Grand Armory to work.\nRunning Quarterstaff Armory Extended will add all the extended variations as expected.\nIf you are running Frackin Universe and not Quarterstaff Extended you will need the Grand Armory-Frackin Universe compatibility patch to utilize the extended assets included in FU.\n\nFor more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Grand Armory-Quarterstaff Armory compatibility patch",
-  "includes" : ["GRANDARM-FU.IHC","GRANDARM.IHC","QSARM.IHC"],
+  "includes" : ["GRANDARM-FU.IHC", "GRANDARM.IHC", "QSARM.IHC"],
+  "link" : "steam://url/CommunityFilePage/837593510",
   "name" : "GRANDARM-QS.IHC",
-  "requires" : ["GRANDARM.IHC","QSARM.IHC"],
+  "requires" : ["GRANDARM.IHC", "QSARM.IHC"],
+  "steamContentId" : "837593510",
   "version" : "0.1"
 }
